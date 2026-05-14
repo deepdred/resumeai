@@ -2,10 +2,6 @@
 
 An open-source AI-powered resume builder that runs locally on your machine using Ollama LLM models. It consists of a FastAPI backend and a React + Vite frontend.
 
-## About
-
-ResumeAI is a lightweight project that combines a Python backend with a modern React frontend. It uses local AI models (Ollama) for processing, so everything runs on your machine with no cloud dependency.
-
 ## Tech Stack
 
 - **Backend**: FastAPI with Python
