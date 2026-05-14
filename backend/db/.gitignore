@@ -1,0 +1,7 @@
+# Local DB files
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep the folder in git
+!.gitignore
